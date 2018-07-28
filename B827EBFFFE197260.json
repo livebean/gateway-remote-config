@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE197260",
+    "servers": [
+      {
+        "server_address": "router.cn.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "fake_gps": true,
+    "ref_latitude": 22.516311,
+    "ref_longitude": 114.062931,
+    "ref_altitude": 10,
+    "contact_email": "livebean@gmail.com",
+    "description": "Livebean LoRa Gateway"
+  }
+}
